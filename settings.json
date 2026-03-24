@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Civilta24.aternos.me",
-    "port": 45299,
+    "ip": "mcserverit.aternos.me",
+    "port": 55556,
     "version": "",
     "try-creative": false
   },
