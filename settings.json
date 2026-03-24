@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "mojang",
+    "username": "herobrine",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mcserverit.aternos.me",
-    "port": 55556,
+    "ip": "SurvivalBedrock_IT.aternos.me",
+    "port": 17486,
     "version": "",
     "try-creative": false
   },
